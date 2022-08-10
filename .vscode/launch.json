@@ -1,0 +1,31 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch mainMenu",
+            "request": "launch",
+            "mainClass": "mainMenu",
+            "projectName": "socialmediajava_fdf999aa"
+        },
+        {
+            "type": "java",
+            "name": "Launch Testing",
+            "request": "launch",
+            "mainClass": "Testing",
+            "projectName": "socialmediajava_fdf999aa"
+        },
+        {
+            "type": "java",
+            "name": "Launch mainMenu",
+            "request": "launch",
+            "mainClass": "mainMenu",
+            "projectName": "socialmediajava_26617eab"
+        },
+        {
+            "type": "java",
+            "name": "Launch Java Program",
+            "request": "launch",
+            "mainClass": ""
+        }
+    ]
+}
