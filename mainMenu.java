@@ -28,10 +28,10 @@ public class mainMenu{
             }
         do {
             System.out.println("\nMenu:");
-            System.out.println("1) add friend");
-            System.out.println("2) remove friend");
-            System.out.println("3) view friends");
-            System.out.println("4) exit");
+            System.out.println("1) Add friend");
+            System.out.println("2) Remove friend");
+            System.out.println("3) View friends");
+            System.out.println("4) Exit");
 
             input = scan.nextInt();
             scan.nextLine(); // filled automatically
